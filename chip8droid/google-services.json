@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "138098716304",
+    "firebase_url": "https://chip8droid.firebaseio.com",
+    "project_id": "chip8droid",
+    "storage_bucket": "chip8droid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138098716304:android:f4985ac6027e0496893215",
+        "android_client_info": {
+          "package_name": "com.example.chip8emu_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138098716304-l9gc10cg9q30o63o9kut2jarnqs5sog8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFEo5UYtxsF8saSGySz5B92DF4MDuH6mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138098716304-l9gc10cg9q30o63o9kut2jarnqs5sog8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

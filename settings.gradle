@@ -1,0 +1,2 @@
+include ':chip8droid'
+rootProject.name='Chip8emu_androidPort'
